@@ -5,9 +5,8 @@ An online bookstore having hardcopy and softcopy of all category books,articles,
 Python must be installed and enabled on the system
 
 Extract the folder Reference-Books-Portal
-Open terminal (preferably VSC)
-cd Reference-Books-Portal
-pip install django
-python manage.py makemigrations
+Open terminal (preferably VSC) and open the folder Reference-Books-Portal 
+>>pip install django
+>>python manage.py makemigrations
 >>python manage.py migrate
 >> python manage.py runserver
